@@ -11,30 +11,31 @@ This project was developed as a learning exercise to gain practical experience i
    Dashboard Design and Deployment, 
    Business Intelligence Fundamentals.
 
-1. Features
+1. Features: 
   A.Dashboard
     Total Sales Overview, 
     Total Profit Tracking, 
     Profit Margin Calculation, 
     Order Volume Monitoring, 
     Average Order Value Analysis.   
-  B.Data Visualization
+  B.Data Visualization: 
     Monthly Sales Trends, 
     Monthly Profit Trends, 
     Regional Performance Comparison, 
     Category Analysis, 
     Customer Performance Analysis,   
-  C.Analytics
+  C.Analytics: 
     Category Profitability Analysis, 
     Customer Insights, 
     Repeat Customer Metrics, 
     Pareto (80/20) Sales Analysis.   
-  D.Data Explorer
+  D.Data Explorer: 
     Search Transactions, 
     Filter by Category and Region, 
     View Raw Records, 
     Export Filtered Data.   
-2.Technologies Used
+
+2.Technologies Used: 
    Python, 
    Streamlit, 
    Pandas, 
