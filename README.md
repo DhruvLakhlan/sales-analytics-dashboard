@@ -5,51 +5,51 @@ Sales Analytics Dashboard is a beginner-friendly data analytics project built us
 The project demonstrates how sales transaction data can be transformed into visual reports and key business metrics through an interactive web application. Users can upload a compatible sales dataset or use the included sample dataset to explore sales trends, profitability, customer insights, and regional performance.
 
 This project was developed as a learning exercise to gain practical experience in:
-Data Analysis using Pandas
-Data Visualization using Plotly
-Interactive Web Applications using Streamlit
-Dashboard Design and Deployment
-Business Intelligence Fundamentals
+   Data Analysis using Pandas, 
+   Data Visualization using Plotly, 
+   Interactive Web Applications using Streamlit, 
+   Dashboard Design and Deployment, 
+   Business Intelligence Fundamentals.
 
 1. Features
   A.Dashboard
-    Total Sales Overview
-    Total Profit Tracking
-    Profit Margin Calculation
-    Order Volume Monitoring
-    Average Order Value Analysis
+    Total Sales Overview, 
+    Total Profit Tracking, 
+    Profit Margin Calculation, 
+    Order Volume Monitoring, 
+    Average Order Value Analysis.   
   B.Data Visualization
-    Monthly Sales Trends
-    Monthly Profit Trends
-    Regional Performance Comparison
-    Category Analysis
-    Customer Performance Analysis
+    Monthly Sales Trends, 
+    Monthly Profit Trends, 
+    Regional Performance Comparison, 
+    Category Analysis, 
+    Customer Performance Analysis,   
   C.Analytics
-    Category Profitability Analysis
-    Customer Insights
-    Repeat Customer Metrics
-    Pareto (80/20) Sales Analysis
+    Category Profitability Analysis, 
+    Customer Insights, 
+    Repeat Customer Metrics, 
+    Pareto (80/20) Sales Analysis.   
   D.Data Explorer
-    Search Transactions
-    Filter by Category and Region
-    View Raw Records
-    Export Filtered Data
+    Search Transactions, 
+    Filter by Category and Region, 
+    View Raw Records, 
+    Export Filtered Data.   
 2.Technologies Used
-   Python
-   Streamlit
-   Pandas
-   Plotly
-   NumPy
-   Dataset Requirements
+   Python, 
+   Streamlit, 
+   Pandas, 
+   Plotly, 
+   NumPy.   
+Dataset Requirements
 
 The application is designed to work with sales datasets containing fields similar to:
-Order Date
-Sales
-Profit
-Region
-Category
-Sub-Category
-Customer Name
+Order Date, 
+Sales, 
+Profit, 
+Region, 
+Category, 
+Sub-Category, 
+Customer Name.   
 
 The current version expects a predefined dataset structure and may not work correctly with arbitrary CSV files.
 
